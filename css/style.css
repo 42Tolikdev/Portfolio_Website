@@ -1,0 +1,13 @@
+#profile-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+}
+header {
+  background: #fff;
+  text-align: center;
+  padding: 20px;
+  border-bottom: 1px solid #ccc;
+}
